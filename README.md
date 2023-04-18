@@ -1,31 +1,23 @@
 # ai-assisted-osm-mapping-stats
 Find our the global scale and evolution of AI-assisted mapping in OpenStreetMap
 
-<script type="module">
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-  mermaid.initialize({ startOnLoad: true });
-</script>
+## Introduction
 
-Here is a simple flow chart:
+In the analysis we focus on AI-assisted mapping. 
+## Workflow [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
 
 ```mermaid
-graph LR
-    A[Square Rect] -- Link text --> B((Circle))
-    A --> C(Round Rect)
-    B --> D{Rhombus}
-    C --> D
-```
 
-  <script>
-    mermaid.initialize({
-        startOnLoad:true
-    });
-</script>
+flowchart LR
+    subgraph Stage 1
+    A[1. Download the data via OHSOME API\n and export them]-- Load the data\n and prepare them \nto the desired \nshape/DataFrame -->B
+    B[2. Plot the obtained data]-- Focus on the specific\n continents/states -->C
+    C[3. Create the maps]
+    
+    click A "https://github.com/GIScience/ai-assisted-osm-mapping-stats/tree/main/downloaded-data" _blank
+    click B "https://github.com/GIScience/ai-assisted-osm-mapping-stats/tree/main/plots" _blank
+    click C "https://github.com/GIScience/ai-assisted-osm-mapping-stats/tree/main/maps" _blank
+
+    end
+```
