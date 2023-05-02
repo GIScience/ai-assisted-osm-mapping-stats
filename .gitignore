@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore folder path with large parquet files
+oshdb-contributions-parquet-data/

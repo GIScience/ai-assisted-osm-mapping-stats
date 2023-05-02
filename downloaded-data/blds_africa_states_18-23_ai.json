@@ -8,495 +8,33 @@
             "result": [
                 {
                     "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 63257.0
+                    "value": 284919.0
                 },
                 {
                     "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 82349.0
+                    "value": 350579.0
                 },
                 {
                     "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 177419.0
+                    "value": 395155.0
                 },
                 {
                     "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 371148.0
+                    "value": 470680.0
                 },
                 {
                     "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 544453.0
+                    "value": 629701.0
                 },
                 {
                     "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 634774.0
+                    "value": 753591.0
                 }
             ]
         },
         {
             "groupByObject": [
                 0,
-                "source=microsoft/BuildingFootprints"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 17.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 1517.0
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "groupByObject": [
-                10,
-                "remainder"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 5122.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 5331.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 5666.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 10258.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 11115.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 11577.0
-                }
-            ]
-        },
-        {
-            "groupByObject": [
-                10,
-                "source=microsoft/BuildingFootprints"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 0.0
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "groupByObject": [
-                11,
-                "remainder"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 259546.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 363907.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 401339.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 426008.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 535272.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 568058.0
-                }
-            ]
-        },
-        {
-            "groupByObject": [
-                11,
-                "source=microsoft/BuildingFootprints"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 478.0
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "groupByObject": [
-                12,
-                "remainder"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 48904.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 60365.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 68087.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 84188.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 91808.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 127443.0
-                }
-            ]
-        },
-        {
-            "groupByObject": [
-                12,
-                "source=microsoft/BuildingFootprints"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 12058.0
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "groupByObject": [
-                13,
-                "remainder"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 33925.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 37421.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 39514.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 42787.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 129890.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 131830.0
-                }
-            ]
-        },
-        {
-            "groupByObject": [
-                13,
-                "source=microsoft/BuildingFootprints"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 156.0
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "groupByObject": [
-                14,
-                "remainder"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 9831.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 13861.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 14140.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 17390.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 24237.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 30196.0
-                }
-            ]
-        },
-        {
-            "groupByObject": [
-                14,
-                "source=microsoft/BuildingFootprints"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 52.0
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "groupByObject": [
-                15,
-                "remainder"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 176801.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 355265.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 528570.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 803447.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 998426.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 1171187.0
-                }
-            ]
-        },
-        {
-            "groupByObject": [
-                15,
-                "source=microsoft/BuildingFootprints"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 55.0
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "groupByObject": [
-                16,
-                "remainder"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 288722.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 361542.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 407065.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 487077.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 645345.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 769544.0
-                }
-            ]
-        },
-        {
-            "groupByObject": [
-                16,
                 "source=microsoft/BuildingFootprints"
             ],
             "result": [
@@ -530,33 +68,495 @@
     [
         {
             "groupByObject": [
+                10,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 1361613.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 2325784.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 2926551.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 3416401.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 5579524.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 6533518.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                10,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 395.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 23080.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                11,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 85410.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 96283.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 131608.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 228503.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 306020.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 325854.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                11,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 98.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                12,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 381843.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 466331.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 534224.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 697341.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 826183.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 1605467.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                12,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 8219.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                13,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 25159.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 32954.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 36037.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 84233.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 420984.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 755690.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                13,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 15840.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                14,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 67609.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 80368.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 243233.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 347658.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 470534.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 496152.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                14,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 551.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                15,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 1213354.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 2593924.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 3078470.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 3451296.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 4585988.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 4996208.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                15,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 159932.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                16,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 518315.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 537645.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 549645.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 589373.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 611258.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 641532.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                16,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 0.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
                 17,
                 "remainder"
             ],
             "result": [
                 {
                     "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 562637.0
+                    "value": 586011.0
                 },
                 {
                     "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 697164.0
+                    "value": 716902.0
                 },
                 {
                     "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 1178569.0
+                    "value": 1204778.0
                 },
                 {
                     "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 1303297.0
+                    "value": 1329518.0
                 },
                 {
                     "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 1516578.0
+                    "value": 1542047.0
                 },
                 {
                     "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 1629235.0
+                    "value": 1656336.0
                 }
             ]
         },
@@ -602,27 +602,27 @@
             "result": [
                 {
                     "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 30264.0
+                    "value": 376253.0
                 },
                 {
                     "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 36394.0
+                    "value": 420866.0
                 },
                 {
                     "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 64573.0
+                    "value": 641502.0
                 },
                 {
                     "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 125741.0
+                    "value": 658750.0
                 },
                 {
                     "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 281280.0
+                    "value": 675147.0
                 },
                 {
                     "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 286852.0
+                    "value": 705667.0
                 }
             ]
         },
@@ -654,7 +654,7 @@
                 },
                 {
                     "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 7.0
+                    "value": 2063.0
                 }
             ]
         }
@@ -668,27 +668,27 @@
             "result": [
                 {
                     "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 43084.0
+                    "value": 414947.0
                 },
                 {
                     "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 43716.0
+                    "value": 425769.0
                 },
                 {
                     "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 47116.0
+                    "value": 565896.0
                 },
                 {
                     "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 48485.0
+                    "value": 767304.0
                 },
                 {
                     "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 50753.0
+                    "value": 769115.0
                 },
                 {
                     "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 51218.0
+                    "value": 770971.0
                 }
             ]
         },
@@ -720,7 +720,7 @@
                 },
                 {
                     "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 84.0
+                    "value": 144.0
                 }
             ]
         }
@@ -734,27 +734,27 @@
             "result": [
                 {
                     "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 421862.0
+                    "value": 1007356.0
                 },
                 {
                     "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 513101.0
+                    "value": 1025617.0
                 },
                 {
                     "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 582223.0
+                    "value": 1042953.0
                 },
                 {
                     "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 666949.0
+                    "value": 1221037.0
                 },
                 {
                     "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 727349.0
+                    "value": 1653908.0
                 },
                 {
                     "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 789073.0
+                    "value": 1788605.0
                 }
             ]
         },
@@ -786,7 +786,7 @@
                 },
                 {
                     "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 439.0
+                    "value": 0.0
                 }
             ]
         }
@@ -800,957 +800,33 @@
             "result": [
                 {
                     "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 146247.0
+                    "value": 90216.0
                 },
                 {
                     "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 165673.0
+                    "value": 111085.0
                 },
                 {
                     "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 224236.0
+                    "value": 120021.0
                 },
                 {
                     "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 233455.0
+                    "value": 223580.0
                 },
                 {
                     "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 250854.0
+                    "value": 350520.0
                 },
                 {
                     "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 274471.0
+                    "value": 543906.0
                 }
             ]
         },
         {
             "groupByObject": [
                 20,
-                "source=microsoft/BuildingFootprints"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 46058.0
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "groupByObject": [
-                21,
-                "remainder"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 393787.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 426066.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 631738.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 651292.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 668805.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 697113.0
-                }
-            ]
-        },
-        {
-            "groupByObject": [
-                21,
-                "source=microsoft/BuildingFootprints"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 2004.0
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "groupByObject": [
-                22,
-                "remainder"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 827617.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 835357.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 840852.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 843864.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 845683.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 852702.0
-                }
-            ]
-        },
-        {
-            "groupByObject": [
-                22,
-                "source=microsoft/BuildingFootprints"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 129.0
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "groupByObject": [
-                23,
-                "remainder"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 1343.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 2700.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 3118.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 6453.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 10015.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 10283.0
-                }
-            ]
-        },
-        {
-            "groupByObject": [
-                23,
-                "source=microsoft/BuildingFootprints"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 12.0
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "groupByObject": [
-                24,
-                "remainder"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 17504.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 24020.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 26889.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 72915.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 387216.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 645260.0
-                }
-            ]
-        },
-        {
-            "groupByObject": [
-                24,
-                "source=microsoft/BuildingFootprints"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 9186.0
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "groupByObject": [
-                25,
-                "remainder"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 350786.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 572341.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 770079.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 1633533.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 3203968.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 4381322.0
-                }
-            ]
-        },
-        {
-            "groupByObject": [
-                25,
-                "source=microsoft/BuildingFootprints"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 4311.0
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "groupByObject": [
-                26,
-                "remainder"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 656250.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 945729.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 1931705.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 2387237.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 2624956.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 3988508.0
-                }
-            ]
-        },
-        {
-            "groupByObject": [
-                26,
-                "source=microsoft/BuildingFootprints"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 12.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 59.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 845991.0
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "groupByObject": [
-                27,
-                "remainder"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 2398395.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 2551198.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 3147453.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 3256474.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 3316266.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 3736497.0
-                }
-            ]
-        },
-        {
-            "groupByObject": [
-                27,
-                "source=microsoft/BuildingFootprints"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 5059.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 16481.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 17127.0
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "groupByObject": [
-                28,
-                "remainder"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 51387.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 51490.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 82848.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 112404.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 125675.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 451714.0
-                }
-            ]
-        },
-        {
-            "groupByObject": [
-                28,
-                "source=microsoft/BuildingFootprints"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 2735.0
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "groupByObject": [
-                29,
-                "remainder"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 243530.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 348108.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 469404.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 646472.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 775445.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 869843.0
-                }
-            ]
-        },
-        {
-            "groupByObject": [
-                29,
-                "source=microsoft/BuildingFootprints"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 39.0
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "groupByObject": [
-                2,
-                "remainder"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 368097.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 468489.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 591080.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 722642.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 819100.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 884529.0
-                }
-            ]
-        },
-        {
-            "groupByObject": [
-                2,
-                "source=microsoft/BuildingFootprints"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 1088.0
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "groupByObject": [
-                30,
-                "remainder"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 209596.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 271729.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 325641.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 389163.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 404843.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 429266.0
-                }
-            ]
-        },
-        {
-            "groupByObject": [
-                30,
-                "source=microsoft/BuildingFootprints"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 270.0
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "groupByObject": [
-                31,
-                "remainder"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 865.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 1146.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 1223.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 1345.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 1585.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 1776.0
-                }
-            ]
-        },
-        {
-            "groupByObject": [
-                31,
-                "source=microsoft/BuildingFootprints"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 0.0
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "groupByObject": [
-                32,
-                "remainder"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 746802.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 1553637.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 2663565.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 5617740.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 7180047.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 9413765.0
-                }
-            ]
-        },
-        {
-            "groupByObject": [
-                32,
-                "source=microsoft/BuildingFootprints"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 27.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 1056217.0
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "groupByObject": [
-                33,
-                "remainder"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 85435.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 105080.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 115328.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 224732.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 350849.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 544184.0
-                }
-            ]
-        },
-        {
-            "groupByObject": [
-                33,
                 "source=microsoft/BuildingFootprints"
             ],
             "result": [
@@ -1784,237 +860,39 @@
     [
         {
             "groupByObject": [
-                34,
+                21,
                 "remainder"
             ],
             "result": [
                 {
                     "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 1117413.0
+                    "value": 7248.0
                 },
                 {
                     "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 1549524.0
+                    "value": 8801.0
                 },
                 {
                     "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 1605061.0
+                    "value": 43395.0
                 },
                 {
                     "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 1826936.0
+                    "value": 137775.0
                 },
                 {
                     "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 1949152.0
+                    "value": 138876.0
                 },
                 {
                     "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 2060244.0
+                    "value": 139282.0
                 }
             ]
         },
         {
             "groupByObject": [
-                34,
-                "source=microsoft/BuildingFootprints"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 675.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 675.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 726.0
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "groupByObject": [
-                35,
-                "remainder"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 107498.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 127454.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 162815.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 260018.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 337196.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 356749.0
-                }
-            ]
-        },
-        {
-            "groupByObject": [
-                35,
-                "source=microsoft/BuildingFootprints"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 98.0
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "groupByObject": [
-                36,
-                "remainder"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 280162.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 359846.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 416916.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 737041.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 812341.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 980391.0
-                }
-            ]
-        },
-        {
-            "groupByObject": [
-                36,
-                "source=microsoft/BuildingFootprints"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 1803.0
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "groupByObject": [
-                37,
-                "remainder"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 1018264.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 1048597.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 1065122.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 1255583.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 1683054.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 1816649.0
-                }
-            ]
-        },
-        {
-            "groupByObject": [
-                37,
+                21,
                 "source=microsoft/BuildingFootprints"
             ],
             "result": [
@@ -2048,39 +926,39 @@
     [
         {
             "groupByObject": [
-                38,
+                22,
                 "remainder"
             ],
             "result": [
                 {
                     "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 1212527.0
+                    "value": 9780.0
                 },
                 {
                     "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 1571513.0
+                    "value": 14026.0
                 },
                 {
                     "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 1712205.0
+                    "value": 14468.0
                 },
                 {
                     "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 2099641.0
+                    "value": 18858.0
                 },
                 {
                     "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 2320654.0
+                    "value": 25505.0
                 },
                 {
                     "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 2540375.0
+                    "value": 32087.0
                 }
             ]
         },
         {
             "groupByObject": [
-                38,
+                22,
                 "source=microsoft/BuildingFootprints"
             ],
             "result": [
@@ -2106,7 +984,7 @@
                 },
                 {
                     "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 463.0
+                    "value": 52.0
                 }
             ]
         }
@@ -2114,105 +992,39 @@
     [
         {
             "groupByObject": [
-                39,
+                23,
                 "remainder"
             ],
             "result": [
                 {
                     "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 34356.0
+                    "value": 182007.0
                 },
                 {
                     "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 34935.0
+                    "value": 373852.0
                 },
                 {
                     "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 35443.0
+                    "value": 439353.0
                 },
                 {
                     "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 48978.0
+                    "value": 718572.0
                 },
                 {
                     "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 75848.0
+                    "value": 754140.0
                 },
                 {
                     "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 82131.0
+                    "value": 820144.0
                 }
             ]
         },
         {
             "groupByObject": [
-                39,
-                "source=microsoft/BuildingFootprints"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 0.0
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "groupByObject": [
-                3,
-                "remainder"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 204515.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 411014.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 499262.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 794550.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 831380.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 898371.0
-                }
-            ]
-        },
-        {
-            "groupByObject": [
-                3,
+                23,
                 "source=microsoft/BuildingFootprints"
             ],
             "result": [
@@ -2246,39 +1058,39 @@
     [
         {
             "groupByObject": [
-                40,
+                24,
                 "remainder"
             ],
             "result": [
                 {
                     "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 541711.0
+                    "value": 1235248.0
                 },
                 {
                     "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 542888.0
+                    "value": 1600476.0
                 },
                 {
                     "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 545524.0
+                    "value": 1748060.0
                 },
                 {
                     "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 550690.0
+                    "value": 2162422.0
                 },
                 {
                     "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 552377.0
+                    "value": 2385893.0
                 },
                 {
                     "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 553852.0
+                    "value": 2604312.0
                 }
             ]
         },
         {
             "groupByObject": [
-                40,
+                24,
                 "source=microsoft/BuildingFootprints"
             ],
             "result": [
@@ -2304,7 +1116,7 @@
                 },
                 {
                     "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 2.0
+                    "value": 463.0
                 }
             ]
         }
@@ -2312,39 +1124,39 @@
     [
         {
             "groupByObject": [
-                41,
+                25,
                 "remainder"
             ],
             "result": [
                 {
                     "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 324871.0
+                    "value": 275392.0
                 },
                 {
                     "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 435328.0
+                    "value": 355593.0
                 },
                 {
                     "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 724975.0
+                    "value": 423510.0
                 },
                 {
                     "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 794159.0
+                    "value": 754198.0
                 },
                 {
                     "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 871869.0
+                    "value": 825038.0
                 },
                 {
                     "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 1280341.0
+                    "value": 1001839.0
                 }
             ]
         },
         {
             "groupByObject": [
-                41,
+                25,
                 "source=microsoft/BuildingFootprints"
             ],
             "result": [
@@ -2370,7 +1182,7 @@
                 },
                 {
                     "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 0.0
+                    "value": 1822.0
                 }
             ]
         }
@@ -2378,39 +1190,105 @@
     [
         {
             "groupByObject": [
-                42,
+                26,
                 "remainder"
             ],
             "result": [
                 {
                     "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 47016.0
+                    "value": 719494.0
                 },
                 {
                     "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 105376.0
+                    "value": 1525839.0
                 },
                 {
                     "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 155067.0
+                    "value": 2649368.0
                 },
                 {
                     "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 178848.0
+                    "value": 5649347.0
                 },
                 {
                     "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 362528.0
+                    "value": 7238481.0
                 },
                 {
                     "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 725943.0
+                    "value": 9487950.0
                 }
             ]
         },
         {
             "groupByObject": [
-                42,
+                26,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 27.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 1055014.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                27,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 451785.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 555485.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 625051.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 698343.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 764288.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 829118.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                27,
                 "source=microsoft/BuildingFootprints"
             ],
             "result": [
@@ -2436,7 +1314,7 @@
                 },
                 {
                     "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 0.0
+                    "value": 439.0
                 }
             ]
         }
@@ -2444,633 +1322,39 @@
     [
         {
             "groupByObject": [
-                43,
+                28,
                 "remainder"
             ],
             "result": [
                 {
                     "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 438748.0
+                    "value": 216746.0
                 },
                 {
                     "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 455742.0
+                    "value": 291690.0
                 },
                 {
                     "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 476460.0
+                    "value": 339930.0
                 },
                 {
                     "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 516315.0
+                    "value": 523444.0
                 },
                 {
                     "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 537266.0
+                    "value": 551655.0
                 },
                 {
                     "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 571329.0
+                    "value": 581052.0
                 }
             ]
         },
         {
             "groupByObject": [
-                43,
-                "source=microsoft/BuildingFootprints"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 59.0
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "groupByObject": [
-                44,
-                "remainder"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 501057.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 589869.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 635684.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 754383.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 922235.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 1082084.0
-                }
-            ]
-        },
-        {
-            "groupByObject": [
-                44,
-                "source=microsoft/BuildingFootprints"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 2.0
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "groupByObject": [
-                45,
-                "remainder"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 48891.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 60840.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 198341.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 282877.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 307440.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 328983.0
-                }
-            ]
-        },
-        {
-            "groupByObject": [
-                45,
-                "source=microsoft/BuildingFootprints"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 551.0
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "groupByObject": [
-                46,
-                "remainder"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 1229793.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 3427072.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 4424705.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 5770631.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 6870205.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 7769612.0
-                }
-            ]
-        },
-        {
-            "groupByObject": [
-                46,
-                "source=microsoft/BuildingFootprints"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 68545.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 68805.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 69362.0
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "groupByObject": [
-                47,
-                "remainder"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 3368486.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 8912082.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 10361982.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 11537494.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 12224327.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 12611913.0
-                }
-            ]
-        },
-        {
-            "groupByObject": [
-                47,
-                "source=microsoft/BuildingFootprints"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 144074.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 181106.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 201907.0
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "groupByObject": [
-                48,
-                "remainder"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 472753.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 542852.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 609821.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 772844.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 891139.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 1500512.0
-                }
-            ]
-        },
-        {
-            "groupByObject": [
-                48,
-                "source=microsoft/BuildingFootprints"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 6983.0
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "groupByObject": [
-                49,
-                "remainder"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 1134127.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 2466504.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 2931734.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 3299476.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 4455564.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 4887687.0
-                }
-            ]
-        },
-        {
-            "groupByObject": [
-                49,
-                "source=microsoft/BuildingFootprints"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 563.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 563.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 163735.0
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "groupByObject": [
-                4,
-                "remainder"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 1419739.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 2401615.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 3073856.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 3527801.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 5647852.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 6617910.0
-                }
-            ]
-        },
-        {
-            "groupByObject": [
-                4,
-                "source=microsoft/BuildingFootprints"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 291.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 19767.0
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "groupByObject": [
-                50,
-                "remainder"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 3442767.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 3501910.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 3605407.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 3630853.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 3744540.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 3768816.0
-                }
-            ]
-        },
-        {
-            "groupByObject": [
-                50,
-                "source=microsoft/BuildingFootprints"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 0.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 50.0
-                }
-            ]
-        }
-    ],
-    [
-        {
-            "groupByObject": [
-                5,
-                "remainder"
-            ],
-            "result": [
-                {
-                    "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 197062.0
-                },
-                {
-                    "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 264129.0
-                },
-                {
-                    "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 313834.0
-                },
-                {
-                    "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 497977.0
-                },
-                {
-                    "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 526425.0
-                },
-                {
-                    "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 556517.0
-                }
-            ]
-        },
-        {
-            "groupByObject": [
-                5,
+                28,
                 "source=microsoft/BuildingFootprints"
             ],
             "result": [
@@ -3104,39 +1388,39 @@
     [
         {
             "groupByObject": [
-                6,
+                29,
                 "remainder"
             ],
             "result": [
                 {
                     "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 612869.0
+                    "value": 603602.0
                 },
                 {
                     "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 650005.0
+                    "value": 640720.0
                 },
                 {
                     "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 662066.0
+                    "value": 652121.0
                 },
                 {
                     "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 1402403.0
+                    "value": 1399606.0
                 },
                 {
                     "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 1529878.0
+                    "value": 1528268.0
                 },
                 {
                     "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 1542738.0
+                    "value": 1542318.0
                 }
             ]
         },
         {
             "groupByObject": [
-                6,
+                29,
                 "source=microsoft/BuildingFootprints"
             ],
             "result": [
@@ -3170,33 +1454,2013 @@
     [
         {
             "groupByObject": [
+                2,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 42642.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 101067.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 150890.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 174338.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 357272.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 719011.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                2,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 0.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                30,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 3423193.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 3481873.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 3668184.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 3696191.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 3809584.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 3869856.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                30,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 50.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                31,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 222560.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 349268.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 636644.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 710548.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 789799.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 1204814.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                31,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 0.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                32,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 261826.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 365631.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 404078.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 428225.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 538250.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 571423.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                32,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 539.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                33,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 2369180.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 2469608.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 2984908.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 3085703.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 3150390.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 3563984.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                33,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 65.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 78.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 228.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                34,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 579332.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 580490.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 583273.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 585148.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 586846.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 588259.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                34,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 2.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                35,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 72126.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 89143.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 176342.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 369908.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 552375.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 647302.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                35,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 17.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 1517.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                36,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 281598.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 303483.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 374304.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 452943.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 520648.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 569685.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                36,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 270.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                37,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 1229595.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 3488591.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 4497561.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 5806016.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 6799594.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 7694315.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                37,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 68507.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 68656.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 69237.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                38,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 935281.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 943177.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 948835.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 951836.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 953645.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 961456.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                38,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 129.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                39,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 1843700.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 2144894.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 2414984.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 2523697.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 2646411.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 2910001.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                39,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 1574.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                3,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 640843.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 933907.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 1901742.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 2359155.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 2605641.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 3974450.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                3,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 12.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 59.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 853292.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                40,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 31045.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 34586.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 36635.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 39958.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 125692.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 127646.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                40,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 151.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                41,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 246749.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 318365.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 421134.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 582171.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 700231.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 775151.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                41,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 39.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                42,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 343322.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 436873.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 556979.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 677052.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 771033.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 827758.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                42,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 1088.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                43,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 470744.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 555449.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 599997.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 716008.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 880302.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 1046216.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                43,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 3.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                44,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 184161.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 364047.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 537105.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 817798.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 1009659.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 1182417.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                44,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 54.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                45,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 48165.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 48764.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 52081.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 53465.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 55575.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 56073.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                45,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 81.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                "feature1",
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 59622.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 73296.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 82020.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 98403.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 109751.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 149410.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                "feature1",
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 12065.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                47,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 46893.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 49092.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 62980.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 78868.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 92677.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 435181.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                47,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 2726.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                48,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 3117.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 5189.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 6442.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 6839.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 12456.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 12727.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                48,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 12.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                49,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 32700.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 37242.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 66116.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 110919.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 272173.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 273061.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                49,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 0.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                4,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 1173498.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 1498410.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 1555059.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 1771849.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 1898078.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 2009116.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                4,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 9.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 11.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 62.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                50,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 2.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 2.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 7.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                50,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 0.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                51,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 383426.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 617729.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 819964.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 1706294.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 3370862.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 4593243.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                51,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 4311.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                52,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 29871.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 31318.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 65719.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 72600.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 72874.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 88563.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                52,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 92.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                53,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 4691.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 6992.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 7560.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 7728.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 8441.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 9052.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                53,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 0.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                54,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 21050.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 28540.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 41455.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 54610.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 61542.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 69983.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                54,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 0.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                5,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 3491631.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 9191003.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 10820053.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 12326606.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 13142725.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 13608119.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                5,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 151091.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 201082.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 222382.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                6,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 34384.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 35007.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 35517.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 49699.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 76050.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 82347.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                6,
+                "source=microsoft/BuildingFootprints"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 0.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
                 7,
                 "remainder"
             ],
             "result": [
                 {
                     "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 1728364.0
+                    "value": 160854.0
                 },
                 {
                     "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 2021602.0
+                    "value": 181487.0
                 },
                 {
                     "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 2293067.0
+                    "value": 240132.0
                 },
                 {
                     "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 2426920.0
+                    "value": 249831.0
                 },
                 {
                     "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 2564543.0
+                    "value": 268082.0
                 },
                 {
                     "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 2825656.0
+                    "value": 292032.0
                 }
             ]
         },
@@ -3228,7 +3492,7 @@
                 },
                 {
                     "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 1263.0
+                    "value": 49025.0
                 }
             ]
         }
@@ -3242,27 +3506,27 @@
             "result": [
                 {
                     "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 4675.0
+                    "value": 833.0
                 },
                 {
                     "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 202197.0
+                    "value": 1156.0
                 },
                 {
                     "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 386810.0
+                    "value": 1236.0
                 },
                 {
                     "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 501277.0
+                    "value": 1308.0
                 },
                 {
                     "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 510380.0
+                    "value": 1525.0
                 },
                 {
                     "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 515186.0
+                    "value": 1719.0
                 }
             ]
         },
@@ -3294,7 +3558,7 @@
                 },
                 {
                     "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 177.0
+                    "value": 0.0
                 }
             ]
         }
@@ -3308,27 +3572,27 @@
             "result": [
                 {
                     "timestamp": "2018-01-01T00:00:00Z",
-                    "value": 444060.0
+                    "value": 10614.0
                 },
                 {
                     "timestamp": "2019-01-01T00:00:00Z",
-                    "value": 454770.0
+                    "value": 213971.0
                 },
                 {
                     "timestamp": "2020-01-01T00:00:00Z",
-                    "value": 590627.0
+                    "value": 445877.0
                 },
                 {
                     "timestamp": "2021-01-01T00:00:00Z",
-                    "value": 794711.0
+                    "value": 570291.0
                 },
                 {
                     "timestamp": "2022-01-01T00:00:00Z",
-                    "value": 803942.0
+                    "value": 579184.0
                 },
                 {
                     "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 814615.0
+                    "value": 584115.0
                 }
             ]
         },
@@ -3360,7 +3624,7 @@
                 },
                 {
                     "timestamp": "2023-01-01T00:00:00Z",
-                    "value": 0.0
+                    "value": 33.0
                 }
             ]
         }
