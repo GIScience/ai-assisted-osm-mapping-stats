@@ -2642,7 +2642,7 @@
     [
         {
             "groupByObject": [
-                "feature1",
+                46,
                 "remainder"
             ],
             "result": [
@@ -2674,7 +2674,7 @@
         },
         {
             "groupByObject": [
-                "feature1",
+                46,
                 "source=microsoft/BuildingFootprints"
             ],
             "result": [
