@@ -130,3 +130,6 @@ dmypy.json
 
 # Ignore folder path with large parquet files
 oshdb-contributions-parquet-data/
+
+# Ignore hexagrid file
+shp/origin_downloaded_layers/isea_grid_with_buildings.gpkg
