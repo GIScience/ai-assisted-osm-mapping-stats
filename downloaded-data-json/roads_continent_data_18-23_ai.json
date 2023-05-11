@@ -1,0 +1,530 @@
+[
+    [
+        {
+            "groupByObject": [
+                0,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 5454453763.93
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 6470871387.27
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 7902787575.05
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 8821001791.09
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 9619285252.63
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 10163120217.6
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                0,
+                "source=maxar"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 915684.9
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 42864077.71
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 208091311.89
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 308962579.1
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                1,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 11254512708.65
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 13130586284.36
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 14765849328.01
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 16551098679.77
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 17671267588.57
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 18650522210.98
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                1,
+                "source=maxar"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 52796.82
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 206489151.41
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 917580144.74
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 1359488136.57
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                2,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 1080489433.47
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 1164027951.08
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 1242729699.27
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 1288383617.66
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 1319646418.26
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 1355303380.05
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                2,
+                "source=maxar"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 43072.87
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 180954.32
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 322792.79
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                3,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 13226465753.65
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 13462165441.84
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 13851846405.83
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 14285772286.7
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 14632312058.49
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 14827472434.58
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                3,
+                "source=maxar"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 73.45
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 23629471.18
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 90839470.27
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 126036044.32
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                4,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 204351864.5
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 222129032.55
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 235180202.42
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 252411096.13
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 258514684.61
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 263372048.23
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                4,
+                "source=maxar"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 925014.25
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 6438893.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 7571151.87
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                5,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 3905429273.18
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 4377441349.75
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 4851250208.84
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 5962616661.73
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 6499610843.47
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 6676226500.28
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                5,
+                "source=maxar"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 4390.57
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 42689821.33
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 186127937.04
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 245984045.27
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                6,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 2761966.1
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 2875755.92
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 2995985.54
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 2508971.57
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 2031555.03
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 2028730.31
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                6,
+                "source=maxar"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 0.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                7,
+                "remainder"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 15244760941.91
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 15956199941.57
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 16671734936.53
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 17495655210.4
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 18189244129.42
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 18737312935.08
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                7,
+                "source=maxar"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 457135.78
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 2715875.91
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 6475208.67
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 10774445.82
+                }
+            ]
+        }
+    ]
+]
