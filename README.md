@@ -23,11 +23,55 @@ flowchart LR
     B[2. Plot the obtained data]-- Focus on the specific\n continents/states -->C
     C[3. Create the maps]
     
-    click A "https://github.com/GIScience/ai-assisted-osm-mapping-stats/tree/main/downloaded-data" _blank
+    click A "https://github.com/GIScience/ai-assisted-osm-mapping-stats/tree/main/downloaded-data-json" _blank
     click B "https://github.com/GIScience/ai-assisted-osm-mapping-stats/tree/main/plots" _blank
     click C "https://github.com/GIScience/ai-assisted-osm-mapping-stats/tree/main/maps" _blank
 
     end
+```
+
+```mermaid
+
+flowchart TB
+    subgraph Substage 1.1 and 1.2
+    id1{{Workflow of the ipynb files}}
+
+
+    subgraph Blds/roads
+    A[1. \n notebooks-blds/roads: blds/roads-download-export-data]-- Load the data\n and prepare them \nto the desired \nshape/DataFrame -->B
+    B[2. \n FIG1 \n notebooks-blds/roads: blds/roads-plot-figure-1\n or\n notebooks-blds/roads: blds/roads-plot-figure-1-beta\n \n FIG2 \n notebooks-blds/roads: blds/roads-plot-figure-2\n or\n notebooks-blds/roads: blds/roads-plot-figure-2-beta\n \n FIG3 \n blds-rel-abs-numbers-states-figure-3]-- Focus on the specific\n continents/states -->C
+    C[3. Create the maps]
+
+    click A "https://github.com/GIScience/ai-assisted-osm-mapping-stats/tree/main/notebooks-blds" _blank
+    click B "https://github.com/GIScience/ai-assisted-osm-mapping-stats/tree/main/notebooks-blds" _blank
+    click C "https://github.com/GIScience/ai-assisted-osm-mapping-stats/tree/main/maps" _blank
+
+    end
+
+    subgraph Hexagrid
+    D[1. \n notebooks-blds/roads: blds-download-export-data-ver2-hexagrid]-- Load the data\n and prepare them \nto the desired \nshape -->E
+    E[2. ????]-- Focus on the specific\n continents/states -->F
+    F[3. Create the maps]
+
+    click D "https://github.com/GIScience/ai-assisted-osm-mapping-stats/tree/main/notebooks-blds" _blank
+    click E "https://github.com/GIScience/ai-assisted-osm-mapping-stats/tree/main/notebooks-blds" _blank
+    click F "https://github.com/GIScience/ai-assisted-osm-mapping-stats/tree/main/maps" _blank
+
+    end
+
+    subgraph Indicators
+
+    G[1. \n notebooks-blds/roads: blds-download-export-data-ver2]-- Load the data\n and prepare them \nto the desired \nshape -->H
+    H[2. notebooks-blds/roads: blds-indicators]-- Focus on the specific\n continents/states -->I
+    I[3. ???]
+
+
+    click G "https://github.com/GIScience/ai-assisted-osm-mapping-stats/tree/main/notebooks-blds" _blank
+    click H "https://github.com/GIScience/ai-assisted-osm-mapping-stats/tree/main/notebooks-blds" _blank
+    click I "https://github.com/GIScience/ai-assisted-osm-mapping-stats/tree/main/maps" _blank
+
+    end
+end
 ```
 
 ## Results
