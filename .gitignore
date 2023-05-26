@@ -133,3 +133,4 @@ oshdb-contributions-parquet-data/
 
 # Ignore hexagrid file
 shp/origin_downloaded_layers/isea_grid_with_buildings.gpkg
+downloaded-data-json/roads_geojson-world-states.json
