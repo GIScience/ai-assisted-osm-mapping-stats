@@ -136,4 +136,4 @@ shp/origin_downloaded_layers/isea_grid_with_buildings.gpkg
 downloaded-data-json/roads_world-states_18-21.json
 downloaded-data-json/blds_world-states_18-21.json
 geojson-regions/geojson-world-states-ohsome.geojson
-oshdb-contributions-parquet-data/
+oshdb-contributions-parquet-data-test/
