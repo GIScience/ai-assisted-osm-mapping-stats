@@ -132,6 +132,7 @@ dmypy.json
 oshdb-contributions-parquet-data/
 
 # Ignore files/foldres
+downloaded-data-geojson/blds_geojson-world-states.geojson
 shp/origin_downloaded_layers/isea_grid_with_buildings.gpkg
 downloaded-data-json/roads_world-states_18-21.json
 downloaded-data-json/blds_world-states_18-21.json
