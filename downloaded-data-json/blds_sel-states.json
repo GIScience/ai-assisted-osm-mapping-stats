@@ -1,0 +1,762 @@
+[
+    [
+        {
+            "groupByObject": [
+                "Czech Republic",
+                "remainder",
+                "CZE",
+                "Czechia",
+                "Sovereign country",
+                "Czechia",
+                "Czechia",
+                "Czechia",
+                1159320535,
+                10669709.0,
+                14,
+                2019,
+                250680,
+                2019,
+                "2. Developed region: nonG7",
+                "1. High income: OECD",
+                "Europe",
+                "Europe",
+                "Eastern Europe",
+                "Europe & Central Asia"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 4434499.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 4506078.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 4602808.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 4656573.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 4707705.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 4762562.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                "Czech Republic",
+                "source=microsoft/BuildingFootprints",
+                "CZE",
+                "Czechia",
+                "Sovereign country",
+                "Czechia",
+                "Czechia",
+                "Czechia",
+                1159320535,
+                10669709.0,
+                14,
+                2019,
+                250680,
+                2019,
+                "2. Developed region: nonG7",
+                "1. High income: OECD",
+                "Europe",
+                "Europe",
+                "Eastern Europe",
+                "Europe & Central Asia"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 61.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                "Czech Republic",
+                "source=esri/Google_Africa_Buildings",
+                "CZE",
+                "Czechia",
+                "Sovereign country",
+                "Czechia",
+                "Czechia",
+                "Czechia",
+                1159320535,
+                10669709.0,
+                14,
+                2019,
+                250680,
+                2019,
+                "2. Developed region: nonG7",
+                "1. High income: OECD",
+                "Europe",
+                "Europe",
+                "Eastern Europe",
+                "Europe & Central Asia"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 0.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                "Germany",
+                "remainder",
+                "DEU",
+                "Germany",
+                "Sovereign country",
+                "Germany",
+                "Germany",
+                "Germany",
+                1159320539,
+                83132799.0,
+                16,
+                2019,
+                3861123,
+                2019,
+                "1. Developed region: G7",
+                "1. High income: OECD",
+                "Europe",
+                "Europe",
+                "Western Europe",
+                "Europe & Central Asia"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 27125705.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 28836108.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 30388384.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 32228229.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 34238813.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 35992003.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                "Germany",
+                "source=microsoft/BuildingFootprints",
+                "DEU",
+                "Germany",
+                "Sovereign country",
+                "Germany",
+                "Germany",
+                "Germany",
+                1159320539,
+                83132799.0,
+                16,
+                2019,
+                3861123,
+                2019,
+                "1. Developed region: G7",
+                "1. High income: OECD",
+                "Europe",
+                "Europe",
+                "Western Europe",
+                "Europe & Central Asia"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 3886.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                "Germany",
+                "source=esri/Google_Africa_Buildings",
+                "DEU",
+                "Germany",
+                "Sovereign country",
+                "Germany",
+                "Germany",
+                "Germany",
+                1159320539,
+                83132799.0,
+                16,
+                2019,
+                3861123,
+                2019,
+                "1. Developed region: G7",
+                "1. High income: OECD",
+                "Europe",
+                "Europe",
+                "Western Europe",
+                "Europe & Central Asia"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 0.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                "Vietnam",
+                "remainder",
+                "VNM",
+                "Vietnam",
+                "Sovereign country",
+                "Vietnam",
+                "Vietnam",
+                "Vietnam",
+                1159321417,
+                96462106.0,
+                16,
+                2019,
+                261921,
+                2019,
+                "5. Emerging region: G20",
+                "4. Lower middle income",
+                "Asia",
+                "Asia",
+                "South-Eastern Asia",
+                "East Asia & Pacific"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 129191.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 390623.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 461746.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 641373.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 743904.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 810755.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                "Vietnam",
+                "source=microsoft/BuildingFootprints",
+                "VNM",
+                "Vietnam",
+                "Sovereign country",
+                "Vietnam",
+                "Vietnam",
+                "Vietnam",
+                1159321417,
+                96462106.0,
+                16,
+                2019,
+                261921,
+                2019,
+                "5. Emerging region: G20",
+                "4. Lower middle income",
+                "Asia",
+                "Asia",
+                "South-Eastern Asia",
+                "East Asia & Pacific"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 69.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                "Vietnam",
+                "source=esri/Google_Africa_Buildings",
+                "VNM",
+                "Vietnam",
+                "Sovereign country",
+                "Vietnam",
+                "Vietnam",
+                "Vietnam",
+                1159321417,
+                96462106.0,
+                16,
+                2019,
+                261921,
+                2019,
+                "5. Emerging region: G20",
+                "4. Lower middle income",
+                "Asia",
+                "Asia",
+                "South-Eastern Asia",
+                "East Asia & Pacific"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 0.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                "Nigeria",
+                "remainder",
+                "NGA",
+                "Nigeria",
+                "Sovereign country",
+                "Nigeria",
+                "Nigeria",
+                "Nigeria",
+                1159321089,
+                200963599.0,
+                17,
+                2019,
+                448120,
+                2019,
+                "5. Emerging region: G20",
+                "4. Lower middle income",
+                "Africa",
+                "Africa",
+                "Western Africa",
+                "Sub-Saharan Africa"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 719494.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 1525839.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 2649368.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 5649347.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 7238478.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 9487222.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                "Nigeria",
+                "source=microsoft/BuildingFootprints",
+                "NGA",
+                "Nigeria",
+                "Sovereign country",
+                "Nigeria",
+                "Nigeria",
+                "Nigeria",
+                1159321089,
+                200963599.0,
+                17,
+                2019,
+                448120,
+                2019,
+                "5. Emerging region: G20",
+                "4. Lower middle income",
+                "Africa",
+                "Africa",
+                "Western Africa",
+                "Sub-Saharan Africa"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 27.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 1055014.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                "Nigeria",
+                "source=esri/Google_Africa_Buildings",
+                "NGA",
+                "Nigeria",
+                "Sovereign country",
+                "Nigeria",
+                "Nigeria",
+                "Nigeria",
+                1159321089,
+                200963599.0,
+                17,
+                2019,
+                448120,
+                2019,
+                "5. Emerging region: G20",
+                "4. Lower middle income",
+                "Africa",
+                "Africa",
+                "Western Africa",
+                "Sub-Saharan Africa"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 3.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 728.0
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                "United States of America",
+                "remainder",
+                "USA",
+                "United States of America",
+                "Sovereignty",
+                "United States of America",
+                "United States of America",
+                "United States of America",
+                1159321355,
+                331595460.0,
+                17,
+                2019,
+                21542705,
+                2019,
+                "1. Developed region: G7",
+                "1. High income: OECD",
+                "North America",
+                "Americas",
+                "Northern America",
+                "North America"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 23345812.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 27680676.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 33270905.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 38617428.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 43771125.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 49535224.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                "United States of America",
+                "source=microsoft/BuildingFootprints",
+                "USA",
+                "United States of America",
+                "Sovereignty",
+                "United States of America",
+                "United States of America",
+                "United States of America",
+                1159321355,
+                331595460.0,
+                17,
+                2019,
+                21542705,
+                2019,
+                "1. Developed region: G7",
+                "1. High income: OECD",
+                "North America",
+                "Americas",
+                "Northern America",
+                "North America"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 13935.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 2271557.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 5258855.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 8366550.0
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                "United States of America",
+                "source=esri/Google_Africa_Buildings",
+                "USA",
+                "United States of America",
+                "Sovereignty",
+                "United States of America",
+                "United States of America",
+                "United States of America",
+                1159321355,
+                331595460.0,
+                17,
+                2019,
+                21542705,
+                2019,
+                "1. Developed region: G7",
+                "1. High income: OECD",
+                "North America",
+                "Americas",
+                "Northern America",
+                "North America"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 0.0
+                }
+            ]
+        }
+    ]
+]

@@ -1,0 +1,512 @@
+[
+    [
+        {
+            "groupByObject": [
+                "Czech Republic",
+                "remainder",
+                "CZE",
+                "Czechia",
+                "Sovereign country",
+                "Czechia",
+                "Czechia",
+                "Czechia",
+                1159320535,
+                10669709.0,
+                14,
+                2019,
+                250680,
+                2019,
+                "2. Developed region: nonG7",
+                "1. High income: OECD",
+                "Europe",
+                "Europe",
+                "Eastern Europe",
+                "Europe & Central Asia"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 269081748.85
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 280505351.58
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 291918676.66
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 303104252.78
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 310059565.9
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 317662043.31
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                "Czech Republic",
+                "source=maxar",
+                "CZE",
+                "Czechia",
+                "Sovereign country",
+                "Czechia",
+                "Czechia",
+                "Czechia",
+                1159320535,
+                10669709.0,
+                14,
+                2019,
+                250680,
+                2019,
+                "2. Developed region: nonG7",
+                "1. High income: OECD",
+                "Europe",
+                "Europe",
+                "Eastern Europe",
+                "Europe & Central Asia"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 1433.72
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 2068.17
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 10038.4
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 14958.26
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                "Germany",
+                "remainder",
+                "DEU",
+                "Germany",
+                "Sovereign country",
+                "Germany",
+                "Germany",
+                "Germany",
+                1159320539,
+                83132799.0,
+                16,
+                2019,
+                3861123,
+                2019,
+                "1. Developed region: G7",
+                "1. High income: OECD",
+                "Europe",
+                "Europe",
+                "Western Europe",
+                "Europe & Central Asia"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 2079981306.96
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 2113747480.79
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 2144786053.38
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 2187508855.83
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 2224031669.04
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 2253637053.29
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                "Germany",
+                "source=maxar",
+                "DEU",
+                "Germany",
+                "Sovereign country",
+                "Germany",
+                "Germany",
+                "Germany",
+                1159320539,
+                83132799.0,
+                16,
+                2019,
+                3861123,
+                2019,
+                "1. Developed region: G7",
+                "1. High income: OECD",
+                "Europe",
+                "Europe",
+                "Western Europe",
+                "Europe & Central Asia"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 359762.59
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 368889.44
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 330206.33
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 332473.39
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                "Vietnam",
+                "remainder",
+                "VNM",
+                "Vietnam",
+                "Sovereign country",
+                "Vietnam",
+                "Vietnam",
+                "Vietnam",
+                1159321417,
+                96462106.0,
+                16,
+                2019,
+                261921,
+                2019,
+                "5. Emerging region: G20",
+                "4. Lower middle income",
+                "Asia",
+                "Asia",
+                "South-Eastern Asia",
+                "East Asia & Pacific"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 148651085.57
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 174934084.36
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 207002238.33
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 444443100.04
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 525319563.88
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 530753282.86
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                "Vietnam",
+                "source=maxar",
+                "VNM",
+                "Vietnam",
+                "Sovereign country",
+                "Vietnam",
+                "Vietnam",
+                "Vietnam",
+                1159321417,
+                96462106.0,
+                16,
+                2019,
+                261921,
+                2019,
+                "5. Emerging region: G20",
+                "4. Lower middle income",
+                "Asia",
+                "Asia",
+                "South-Eastern Asia",
+                "East Asia & Pacific"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 23098.23
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 52316917.73
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 113399063.78
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 113342138.01
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                "Nigeria",
+                "remainder",
+                "NGA",
+                "Nigeria",
+                "Sovereign country",
+                "Nigeria",
+                "Nigeria",
+                "Nigeria",
+                1159321089,
+                200963599.0,
+                17,
+                2019,
+                448120,
+                2019,
+                "5. Emerging region: G20",
+                "4. Lower middle income",
+                "Africa",
+                "Africa",
+                "Western Africa",
+                "Sub-Saharan Africa"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 528101580.3
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 669977756.28
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 689328794.34
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 717362938.12
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 751420456.65
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 777446641.5
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                "Nigeria",
+                "source=maxar",
+                "NGA",
+                "Nigeria",
+                "Sovereign country",
+                "Nigeria",
+                "Nigeria",
+                "Nigeria",
+                1159321089,
+                200963599.0,
+                17,
+                2019,
+                448120,
+                2019,
+                "5. Emerging region: G20",
+                "4. Lower middle income",
+                "Africa",
+                "Africa",
+                "Western Africa",
+                "Sub-Saharan Africa"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 15.19
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 651106.52
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 4281483.69
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 11510745.25
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "groupByObject": [
+                "United States of America",
+                "remainder",
+                "USA",
+                "United States of America",
+                "Sovereignty",
+                "United States of America",
+                "United States of America",
+                "United States of America",
+                1159321355,
+                331595460.0,
+                17,
+                2019,
+                21542705,
+                2019,
+                "1. Developed region: G7",
+                "1. High income: OECD",
+                "North America",
+                "Americas",
+                "Northern America",
+                "North America"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 10655299534.81
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 10732476062.53
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 10818687007.27
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 10939301088.67
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 11063080155.2
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 11167292955.27
+                }
+            ]
+        },
+        {
+            "groupByObject": [
+                "United States of America",
+                "source=maxar",
+                "USA",
+                "United States of America",
+                "Sovereignty",
+                "United States of America",
+                "United States of America",
+                "United States of America",
+                1159321355,
+                331595460.0,
+                17,
+                2019,
+                21542705,
+                2019,
+                "1. Developed region: G7",
+                "1. High income: OECD",
+                "North America",
+                "Americas",
+                "Northern America",
+                "North America"
+            ],
+            "result": [
+                {
+                    "timestamp": "2018-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2019-01-01T00:00:00Z",
+                    "value": 0.0
+                },
+                {
+                    "timestamp": "2020-01-01T00:00:00Z",
+                    "value": 73.45
+                },
+                {
+                    "timestamp": "2021-01-01T00:00:00Z",
+                    "value": 16190035.14
+                },
+                {
+                    "timestamp": "2022-01-01T00:00:00Z",
+                    "value": 51243448.06
+                },
+                {
+                    "timestamp": "2023-01-01T00:00:00Z",
+                    "value": 58031404.89
+                }
+            ]
+        }
+    ]
+]
