@@ -1,0 +1,5 @@
+GDP:
+https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
+
+HDI:
+https://docs.google.com/spreadsheets/d/1B09Iht5hsH-tI1I9GXyX3-2i_-q0i2ksuswYtpoMLPg/edit#gid=666573173
