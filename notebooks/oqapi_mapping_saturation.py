@@ -109,7 +109,7 @@ def save_figure(figure, index, regionname) -> None:
     """Save the mapping saturation figure to a file."""
     datapath = os.path.join(
         PLOTDIR,
-        (regionname + "_mapping-saturation-plot" + "_feature" + str(index) + ".png"),
+        (regionname + "_mapping-saturation-plot" + "_feature_" + str(index) + ".png"),
     )
     if not os.path.exists(PLOTDIR):
         os.makedirs(PLOTDIR)
@@ -160,7 +160,7 @@ async def main():
                 all_features.at[index, "map_sat_value"] = result[0]
                 all_features.at[index, "map_sat_class"] = result[1]
                 # save_figure(result[2], index, regionname)
-                save_figure(result[2], all_features.at[index, "SOVEREIGNT"], regionname)
+                save_figure(result[2], all_features.at[index, "SOV_A3"], regionname)
 
         if len(errorlog) == 0:
             print("\tNo errors occured.")
