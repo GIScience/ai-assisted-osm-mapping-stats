@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "oqapi-query"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+packages = [{include = "oqapi_query"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+geopandas = "^0.14.3"
+geojson = "^3.1.0"
+httpx = "^0.27.0"
+plotly = "^5.19.0"
+kaleido = "0.2.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
