@@ -84,7 +84,6 @@ async def get_indicators(feature, index, regionname) -> tuple:
                 )
                 raise
         break
-    # save_figure(ind_figure, index, regionname)
 
     return ind_value, ind_class, ind_figure
 
